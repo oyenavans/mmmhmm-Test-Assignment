@@ -1,6 +1,6 @@
 # mmmhmm-Test-Assignment
 ## 1.0 List of Bugs found on the App
-1. The first page on the design shows the list of books that are available on the application but on the prototype, its a blank page with just "Bookshelf header" and a button to "Add book"
+1. The first page on the design shows the list of books that are available on the application but on the prototype, its a blank page with just "Bookshelf header" and a button to "Add book". Although this is not a bug
 
 ![image](https://user-images.githubusercontent.com/113165921/189499114-7058f70c-a334-4241-ba28-68dc8cea1f69.png)
 
